@@ -1,0 +1,65 @@
+TITLE: Dome — Interior View
+
+CATEGORY:
+Rounded roof or ceiling structure viewed from inside.
+
+DEFINITION:
+A dome is a curved roof or ceiling that spans an interior space. An interior
+dome commonly appears as a concave, bowl-like, hemispherical, oval, polygonal,
+or ribbed surface above the viewer.
+
+VISUAL IDENTIFICATION:
+Interior domes often show a circular or polygonal arrangement centred above
+the room. Common features include ribs, coffers, painted decoration, mosaics,
+windows, an oculus, or a lantern at the highest point. The lines of the
+architecture often appear to radiate from the centre.
+
+FUNCTION:
+A dome covers a wide interior area without requiring columns throughout the
+middle of the space. Loads are transferred downward and outward into a drum,
+walls, piers, columns, pendentives, squinches, or other supporting structures.
+
+HISTORICAL DEVELOPMENT:
+Domes were important in Roman architecture and were developed further in
+Byzantine, Islamic, Renaissance, Baroque, and later architecture. They have
+been used over churches, mosques, tombs, government buildings, palaces, and
+large public spaces.
+
+TRANSITION TO THE SUPPORTING WALLS:
+A circular dome may be placed over a circular drum. When a dome is placed over
+a square room, pendentives or squinches can help make the transition between
+the square base and the curved dome.
+
+RELATED FEATURES:
+A lantern is a small structure placed at the top of some domes to admit light.
+An oculus is an opening, often circular, at or near the crown. A drum is the
+vertical wall supporting the dome.
+
+DIFFERENCE FROM DOME OUTER:
+The inner-dome class focuses on the concave ceiling seen from below. The
+outer-dome class shows the convex external roof form seen from outside.
+
+DIFFERENCE FROM A VAULT:
+A dome is usually organised around a central point and covers a centralised
+space. A vault commonly extends along a direction or across a sequence of
+bays.
+
+DIFFERENCE FROM AN APSE:
+An apse is a recessed end space and may have a half-dome. An interior dome
+normally covers a more central or complete space.
+
+MATERIALS:
+Domes may be constructed from concrete, brick, stone, timber, metal, tiles,
+plaster, mosaics, or combinations of these materials.
+
+CONSERVATION CONCERNS:
+Possible problems include cracking caused by outward thrust, water penetration
+from the external roof, detached plaster, mosaic loss, paint deterioration,
+and movement at the supporting drum or pendentives.
+
+SIMPLE VISITOR EXPLANATION:
+An interior dome is the large curved ceiling seen above a central space.
+
+IMAGE-CLASSIFICATION CLUES:
+Look for a circular ceiling, radiating ribs, central artwork, an oculus,
+coffers, a lantern, curved surfaces, and strong visual symmetry.

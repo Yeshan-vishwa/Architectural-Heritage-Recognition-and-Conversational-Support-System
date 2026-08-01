@@ -1,0 +1,39 @@
+TITLE: Vault
+
+CATEGORY:
+Curved structural ceiling.
+
+DEFINITION:
+A vault is an arched ceiling or roof structure built to span an interior space.
+
+VISUAL IDENTIFICATION:
+Vaults appear as long curved ceilings.
+Common types include barrel vaults, groin vaults, and rib vaults.
+
+FUNCTION:
+Vaults carry roof loads safely to walls, columns, and piers while covering
+large spaces.
+
+HISTORICAL DEVELOPMENT:
+Vault construction developed from Roman engineering and reached new heights
+during Gothic architecture through rib vaulting.
+
+RELATED FEATURES:
+Vaults work together with columns, piers, arches, and flying buttresses.
+
+DIFFERENCE FROM A DOME:
+A dome covers a central space.
+A vault extends lengthwise across a space.
+
+MATERIALS:
+Stone, brick, concrete, timber, and plaster.
+
+CONSERVATION CONCERNS:
+Cracking, settlement, water ingress, loose masonry, and structural movement.
+
+SIMPLE VISITOR EXPLANATION:
+A vault is a curved ceiling that supports the roof over a room.
+
+IMAGE-CLASSIFICATION CLUES:
+Look for repeating stone ribs, long curved ceilings, intersecting arches,
+or barrel-shaped roofs.

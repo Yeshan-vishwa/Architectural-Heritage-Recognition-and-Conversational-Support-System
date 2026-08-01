@@ -1,0 +1,42 @@
+TITLE: Flying Buttress
+
+CATEGORY:
+Exterior structural support.
+
+DEFINITION:
+A flying buttress is an external stone support that transfers the outward
+forces from high walls and vaults down to a separate pier.
+
+VISUAL IDENTIFICATION:
+Flying buttresses appear as graceful stone arches connecting the upper wall
+of a church to a massive outer support. Several usually repeat along the side
+of Gothic cathedrals.
+
+FUNCTION:
+They counteract the sideways thrust produced by vaulted ceilings, allowing
+walls to be thinner and windows to become much larger.
+
+HISTORICAL DEVELOPMENT:
+Flying buttresses became one of the defining innovations of Gothic
+architecture during the 12th and 13th centuries.
+
+RELATED FEATURES:
+Often associated with rib vaults, stained-glass windows, pinnacles,
+clerestories, and Gothic cathedrals.
+
+DIFFERENCE FROM A COLUMN:
+A column supports weight vertically.
+A flying buttress transfers sideways forces outside the building.
+
+MATERIALS:
+Cut limestone, sandstone, mortar, and carved stone.
+
+CONSERVATION CONCERNS:
+Cracking, weather erosion, biological growth, settlement, and stone decay.
+
+SIMPLE VISITOR EXPLANATION:
+A flying buttress is an outside stone support that helps keep tall churches
+standing safely.
+
+IMAGE-CLASSIFICATION CLUES:
+Look for curved exterior arches joining a wall to a separate support.

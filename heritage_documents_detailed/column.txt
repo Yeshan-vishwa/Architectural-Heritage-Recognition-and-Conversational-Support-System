@@ -1,0 +1,60 @@
+TITLE: Column
+
+CATEGORY:
+Vertical structural and decorative architectural element.
+
+DEFINITION:
+A column is an upright support that transfers weight from an arch, beam,
+ceiling, roof, or upper storey toward the foundations. Columns may also be
+used decoratively even when they carry little structural load.
+
+MAIN PARTS:
+A traditional column may consist of a base, a vertical shaft, and a capital.
+The capital forms the upper transition between the shaft and the supported
+structure. Some columns stand directly on the floor without a separate base.
+
+VISUAL IDENTIFICATION:
+Columns usually have a long vertical shaft and a clearly defined top. Shafts
+may be smooth, fluted, twisted, clustered, carved, painted, or constructed
+from several smaller shafts. Capitals may be plain or highly decorated.
+
+CLASSICAL ORDERS:
+Doric columns are generally sturdy and relatively plain. Ionic capitals are
+recognised by scroll-like volutes. Corinthian capitals are typically decorated
+with carved leaf forms. Later architecture adapted and combined these orders.
+
+MEDIEVAL AND GOTHIC COLUMNS:
+Gothic churches frequently use clustered columns or compound piers. Several
+slender shafts appear grouped together and may visually continue upward into
+the ribs of the vault. This creates a sense of vertical movement.
+
+FUNCTION:
+Columns concentrate and transfer structural loads. Their size, spacing, shape,
+and material depend on the weight they support and the architectural style.
+
+RELATED FEATURES:
+A row of columns may form a colonnade. Columns may support arches to create an
+arcade. They are related to piers, but piers are often more massive and less
+circular.
+
+DIFFERENCE FROM A BELL TOWER:
+A column is a structural member within or around a building. A bell tower is a
+large vertical building component containing internal space and bells.
+
+MATERIALS:
+Stone, marble, timber, brick, concrete, cast iron, steel, and composite
+materials have all been used.
+
+CONSERVATION CONCERNS:
+Columns may suffer from cracking, erosion, salt crystallisation, impact
+damage, corrosion of internal metal, settlement, and loss of carved detail.
+Structural assessment is important because column failure can affect the
+supported building.
+
+SIMPLE VISITOR EXPLANATION:
+A column is a tall upright support that carries the weight of part of a
+building.
+
+IMAGE-CLASSIFICATION CLUES:
+Look for a base, shaft, and capital; repeated upright supports; carved leaf or
+scroll decoration; fluting; or clustered shafts rising into arches or vaults.
